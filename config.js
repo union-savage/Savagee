@@ -1,6 +1,6 @@
 
 // ⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈
-//▮ZIM BOT INC 2022 ®️ALL RIGHTS RESERVED
+//▮Elaina BOT INC 2022 ®️ALL RIGHTS RESERVED
 //▮
 //▮FORK AND DON'T FORGET TO GIVE A STAR
 //▮
@@ -9,7 +9,7 @@
 //▮REPORT ABUSE OF THIS SOFTWARE EMAIL US
 //▮reinhardtuna@mail.uk
 //▮WHATSAPP US : +44 7441 437150
-//▮YOUTUBE CHANNELL: https://youtube.com/c/DRIPSOFC
+//▮YOUTUBE CHANNELL: https://youtube.com/c/Horsh
 //▮
 //╰▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 //
@@ -17,7 +17,7 @@
 //┃THIS SOFTWARE INCLUDES 
 //┃SOME ENCRYPTED FILES
 //┃
-//┃THANKS FOR CHOOSING ZIMBOT
+//┃THANKS FOR CHOOSING Elaina
 //┃THANKS TO DIKA ARDNT
 //┗━━━━━━━━━━━━━━━━━━━━━━━━━
 //
@@ -40,7 +40,7 @@ global.APIKeys = {
 global.owner = ['263716564623','']
 global.premium = ['263716564623','263787825468']
 global.botname = 'Elaina BOT INC'
-global.ownername = 'DRIPS'
+global.ownername = 'Lord-Savage'
 global.group1 = 'https://chat.whatsapp.com/EFsb8RCXV4jLEFk4ecA1A'
 global.group2 = 'https://chat.whatsapp.com/HSfcYU13g5C8GxINwSWoA'
 global.packname = 'Lord-Savage BOT INC'
